@@ -22,7 +22,7 @@ This dataset provides verse-level parallel translations of the Bible in English 
 
 ### Dataset Sources
 
-- **Repository:** [Hmar Bible Dataset on Huggingface](https://huggingface.co/datasets/keikanih/hmar_bible_dataset)
+- **Repository:** [Hmar Bible Dataset on Huggingface](https://huggingface.co/datasets/hmar-lang/hmar-bible-dataset)
 - **Paper [optional]:** N/A  
 - **Demo [optional]:** N/A  
 
@@ -111,8 +111,8 @@ This dataset does not contain personal or sensitive information. It includes onl
 Users should ensure appropriate preprocessing and validation before using the dataset for critical applications.
 
 # Related Datasets
-- [Hmar Language Basic Words on Huggingface](https://huggingface.co/datasets/keikanih/hmar_language_basic_words)
-- [Hmar Language Conversations on Huggingface](https://huggingface.co/datasets/keikanih/hmar_language_conversations)
+- [Hmar Language Basic Words on Huggingface](https://huggingface.co/datasets/hmar-lang/hmar-language-basic-words)
+- [Hmar Language Conversations on Huggingface](https://huggingface.co/datasets/hmar-lang/hmar-language-conversations)
 
 ## Citation
 
@@ -120,9 +120,9 @@ Users should ensure appropriate preprocessing and validation before using the da
 ```bibtex
 @dataset{asv_clbsi_bible,
   title = {Hmar Bible Dataset},
-  author = {Donal Muolhoi},
+  author = {Hmar Language Dataset Project},
   year = {2024},
-  publisher = {https://huggingface.co/datasets/keikanih/Hmar_Bible_Dataset},
+  publisher = {https://huggingface.co/datasets/hmar-lang/Hmar-Bible-Dataset},
   license = {CC-BY-4.0}
 }
 
@@ -139,7 +139,7 @@ For more details, contact: donalmuolhoi@gmail.com
 
 Dataset Card Authors
 
-Donal Muolhoi
+Hmar Language Dataset Project 
 
 Dataset Card Contact
 
